@@ -1,4 +1,4 @@
-# 👋 សួស្តី, This is Tharin
+# 👋សួស្តី, I’m Tharin
 
 A developer with a touch of imposter syndrome.  
 
@@ -9,7 +9,7 @@ A developer with a touch of imposter syndrome.
 - I write **.ts files** to feed my life.  
 - Sometimes code works, sometimes it explodes — either way, it’s art.  
 - Full-stack “fun-gineer” — because “engineer” sounds too serious.  
-- TypeScript? Yep… I know it… kind of.    
+- Night owl 🦉   
 
 > “I’m not a bug, I’m an undocumented feature.”
 
