@@ -1,4 +1,5 @@
-## Hi there 👋
+## សួស្តី, this is Tharin
+### A developer with a touch of imposter syndrome.
 
 <!--
 **KruyTharin/KruyTharin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
