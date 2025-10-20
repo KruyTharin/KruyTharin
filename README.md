@@ -1,17 +1,28 @@
-## សួស្តី, this is Tharin
-### A developer with a touch of imposter syndrome.
+# 👋 សួស្តី, This is Tharin
 
-<!--
-**KruyTharin/KruyTharin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer with a touch of imposter syndrome.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧙 About Me
+
+- I write **.ts files** to feed my life.  
+- Sometimes code works, sometimes it explodes — either way, it’s art.  
+- Full-stack “fun-gineer” — because “engineer” sounds too serious.  
+- TypeScript? Yep… I know it… kind of.    
+
+> “I’m not a bug, I’m an undocumented feature.”
+
+---
+
+## 🛠️ My “Tech” Stack
+
+```json
+{
+  "frontend": ["JavaScript Framework", "CSS (TailwindCSS, SASS)", "UI Library (ShadCN UI, Nuxt UI)"],
+  "backend": ["Node.js (NestJS)", "Java (Spring Boot)"],
+  "database": ["PostgreSQL", "SQL Server", "Qdrant"],
+  "tools": ["Docker", "Git", "Package Manager", "Strapi", "VS Code", "Postman"],
+  "languages": ["Java", "JavaScript"],
+  "life_support": ["☕ Coffee", "🎮 Gaming", "🎶 Music", "⚽ Football"]
+}
