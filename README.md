@@ -8,7 +8,7 @@ A developer with a touch of imposter syndrome.
 - I write **.ts files** to feed my life.  
 - Sometimes code works, sometimes it explodes — either way, it’s art.  
 - Just a noob developer tryna figure out how full-stack works.  
-- Night owl 🦉   
+- Night owl, coding while the world sleeps.  
 
 > “You miss 100% of the shots you don't take.”
 
