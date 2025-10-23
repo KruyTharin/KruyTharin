@@ -15,6 +15,7 @@ A developer with a touch of imposter syndrome.
 
 ## 🔗 Socials
 
+
 [![Gmail](https://img.shields.io/badge/%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kruytharin17@gmail.com)
 [![GitHub](https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KruyTharin)
 [![Telegram](https://img.shields.io/badge/%20-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rayleigh_si)
@@ -23,6 +24,7 @@ A developer with a touch of imposter syndrome.
 
 
 ## 🛠️ Tech Stack
+
 
 [![React.js](https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=blue)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
