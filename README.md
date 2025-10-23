@@ -10,7 +10,8 @@ A developer with a touch of imposter syndrome.
 - Just a noob developer tryna figure out how full-stack works.  
 - Night owl 🦉   
 
-> “I’m not a bug, I’m an undocumented feature.”
+> “You miss 100% of the shots you don't take.”
+
 
 ## 🛠️ Socials
 
@@ -26,7 +27,7 @@ A developer with a touch of imposter syndrome.
 [![React.js](https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=blue)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt&logoColor=4FC08D)]([https://vuejs.org/](https://nuxt.com/))
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt&logoColor=4FC08D)](https://nuxt.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
