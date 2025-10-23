@@ -13,7 +13,7 @@ A developer with a touch of imposter syndrome.
 > “You miss 100% of the shots you don't take.”
 
 
-## 🛠️ Socials
+## 🔗 Socials
 
 [![Gmail](https://img.shields.io/badge/%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kruytharin17@gmail.com)
 [![GitHub](https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KruyTharin)
